@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+}
+main{
+    background-color: black;
+}
+.titulo{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+.header{
+    background-color: black;
+    display: flex;
+}
+.caracteristicas{
+    font-family: cursive;
+    font-size: 15px;
+    color: antiquewhite;  
+    margin: 130px; 
+}
+.iguana2{
+    padding: 100px 25px 50px 50px;
+}
+
+.text-icon{
+    background-color: rgb(69, 64, 64);
+    text-align: center;
+}
+.text-caract{
+    display: flex;
+    padding: 0px 150px;
+}
+
+.caract{
+    font-size: 30px;
+    margin: 20px 20px 0px 20px;
+    padding: 25px;
+    
+}
+ .icon{
+    width: 50px;
+    margin: 0px 80px;
+}
+.text-caract, p{
+    margin: 0px 15px 0px 125px
+}
+
+.fa-solid{
+    margin: 0px 100px;
+    width: 34px;
+}
+
+.iconos{
+    width: 100%;
+}
+
+i{
+    width: 25px;
+}
+
+.igua-img{
+    display: flex;
+    align-items: center;
+}
+
+.igua-img, .iguana{
+    width: 400px;
+    height: 250px;
+    padding: 25px;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(69, 64, 64);
+}
